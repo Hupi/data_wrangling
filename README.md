@@ -1,2 +1,2 @@
 # data_wrangling
-python scripts to wrangle different format of data
+python scripts to wrangle different formats of data
